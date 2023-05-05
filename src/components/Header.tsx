@@ -92,6 +92,7 @@ export default function Header() {
           </Show>
         </div>
         <ThemeToggle />
+        <a href="https://www.iowen.cn/wordpress-version-webstack/" target="_blank"><img src="https://ai.tboxn.com/wp-content/themes/onenav/images/ad.jpg" alt="广告也精彩" /></a>
       </header>
     </>
   )
